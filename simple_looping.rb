@@ -60,6 +60,5 @@ def for_iterator(number_of_times)
   for greeting in 1..7 do
     puts phrase
   end
-  end
 
 end
