@@ -13,7 +13,7 @@ def loop_iterator(number_of_times)
   loop do
     greeting += 1
     puts phrase
-  break if z == number_of_times
+  break if greeting == number_of_times
 end
 
 end
