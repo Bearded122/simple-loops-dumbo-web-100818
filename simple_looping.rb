@@ -34,7 +34,7 @@ def while_iterator(number_of_times)
   greeting = 0
   while greeting < 7
     puts phrase
-    break if greeting == 7
+    greeting + 1
   end
 
 end
